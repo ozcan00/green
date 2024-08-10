@@ -1,0 +1,4 @@
+https://codepen.io/Coding-Star/pen/WNpJowB
+getbootstrap.com/docs/5.3/getting-started/introduction/
+https://getbootstrap.com/docs/4.6/components/carousel/
+https://colorhunt.co/palette/00676940a5789dde8be6ff94
